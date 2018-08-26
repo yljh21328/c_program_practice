@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1534956423 source:c:\users\asami\documents\c_program\carrayqueue\main.c
+	<stdio.h>
+	<stdlib.h>
+

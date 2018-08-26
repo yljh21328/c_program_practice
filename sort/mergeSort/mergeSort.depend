@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1535172204 source:c:\users\asami\documents\c_program\mergesort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

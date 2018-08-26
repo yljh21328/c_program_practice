@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1535123975 source:c:\users\asami\documents\c_program\ccquicksort\main.c
+	<stdio.h>
+	<stdlib.h>
+
